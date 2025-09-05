@@ -99,7 +99,7 @@ http://localhost:5173/
 
  Optimized, clean, reusable code
 
- Simple CSS, no gradients, no profile images
+ 
 
 
 
