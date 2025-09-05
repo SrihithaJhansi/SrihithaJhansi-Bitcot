@@ -101,15 +101,7 @@ http://localhost:5173/
 
  Simple CSS, no gradients, no profile images
 
-📌 Notes
 
-No profile pictures are displayed.
-
-No "No contact found" images are shown — plain text message instead.
-
-Minimal dependencies used (react, axios).
-
-Focus on code quality & performance rather than design.
 
 👩‍💻 Author
 
